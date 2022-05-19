@@ -1,5 +1,5 @@
 module.exports = {
   mongoURL:
-    "mongodb+srv://princetomar:prince123@cluster0.sw66y.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "mongodb+srv://<Your name>:<Your Password>@cluster0.sw66y.mongodb.net/<Your Databse Name>?retryWrites=true&w=majority",
   secret: "mystrongsecret",
 };
